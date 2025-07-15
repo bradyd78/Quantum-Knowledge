@@ -1,15 +1,69 @@
-# Quantum-Knowledge
+# Quantum Knowledge
+
 This repo is going to contain different resources that helped me learn quantum topics. I will also include my own personal way of explaining topics. Feel free to add or edit the content.
 
+---
 
-# Dirac Notation
-📦 Dirac Notation — In Juice Box Terms
+## Table of Contents
+
+1. [Dirac Notation](#dirac-notation)
+2. [Quantum Mechanics Basics](#quantum-mechanics-basics)
+3. [Quantum Computing](#quantum-computing)
+4. [Useful Resources](#useful-resources)
+5. [How to Contribute](#how-to-contribute)
+
+---
+
+## 1. Dirac Notation
+
+📦 **Dirac Notation — In Juice Box Terms**
+
 Dirac notation uses “kets” and “bras” to describe quantum states:
 
-Ket (|ψ⟩) → “Should be” — like labeling a juice box, e.g. “This is supposed to be apple juice.”
+- **Ket (|ψ⟩)** → “Should be” — like labeling a juice box, e.g. “This is supposed to be apple juice.”
+- **Bra (⟨ψ|)** → “Seems like” — tasting it to check, e.g. “Does this act like apple juice?”
+- **Bra–ket (⟨ψ|ψ⟩)** → “I’m this sure” — measuring how likely it actually is apple juice.
 
-Bra (⟨ψ|) → “Seems like” — tasting it to check, e.g. “Does this act like apple juice?”
+It’s a way to represent and compare quantum states using inner products.
+Succinctly: **Ket = identity, Bra = evaluation, Bra–ket = confidence.**
 
-Bra–ket (⟨ψ|ψ⟩) → “I’m this sure” — measuring how likely it actually is apple juice.
+**Useful Links:**
+- [Wikipedia: Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
+- [YouTube: Dirac Notation Explained](https://www.youtube.com/results?search_query=dirac+notation)
+- [Quantum Country: Dirac Notation](https://quantum.country/qcvc)
 
-It’s a way to represent and compare quantum states using inner products. Succinctly: Ket = identity, Bra = evaluation, Bra–ket = confidence.
+**Documentation:**
+- [MIT OpenCourseWare Lecture Notes](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/lecture-notes/)
+- [Qiskit Textbook: Dirac Notation](https://qiskit.org/textbook/ch-states/dirac-notation.html)
+
+---
+
+## 2. Quantum Mechanics Basics
+
+_Add your explanations, links, and documentation as you learn new concepts._
+
+---
+
+## 3. Quantum Computing
+
+_Add your explanations, links, and documentation as you learn new concepts._
+
+---
+
+## 4. Useful Resources
+
+- [Quantum Country](https://quantum.country/)
+- [Qiskit Textbook](https://qiskit.org/textbook/)
+- [Quantum Computing Playground (IBM)](https://quantum-computing.ibm.com/)
+
+---
+
+## 5. How to Contribute
+
+- Add new sections with explanations, links, and documentation as you learn.
+- Update the Table of Contents.
+- Format new entries like the examples above.
+
+---
+
+Feel free to copy and replace your README.md with this improved version! If you want to expand further, you can create separate markdown files for each topic and link them from the Table of Contents.
