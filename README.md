@@ -6,7 +6,7 @@ This repo is going to contain different resources that helped me learn quantum t
 
 ## Table of Contents
 
-1.📚 [Quantum Vocab Cheat Sheet](cheatsheets/vocab.md)
+1.📚 [Quantum Vocab Cheat Sheet](cheatsheet/vocab.md)
 2. [Dirac Notation](#dirac-notation)
 3. [Quantum Mechanics Basics](#quantum-mechanics-basics)
 4. [Quantum Computing](#quantum-computing)
