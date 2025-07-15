@@ -65,5 +65,3 @@ _Add your explanations, links, and documentation as you learn new concepts._
 - Format new entries like the examples above.
 
 ---
-
-Feel free to copy and replace your README.md with this improved version! If you want to expand further, you can create separate markdown files for each topic and link them from the Table of Contents.
