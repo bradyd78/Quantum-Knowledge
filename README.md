@@ -1,15 +1,15 @@
 # Quantum Knowledge
 
-This repo is going to contain different resources that helped me learn quantum topics. I will also include my own personal way of explaining topics. Feel free to add or edit the content.
+This repo contains different resources that helped me learn quantum topics. I also include my own personal way of explaining concepts. Feel free to add or edit the content.
 
 ---
 
 ## Table of Contents
 
-1.📚 [Quantum Vocab Cheat Sheet](cheatsheet/vocab.md)
+1. 📚 [Quantum Vocab Cheat Sheet](cheatsheet/vocab.md)
 2. [Linear Algebra](#linear-algebra)
 3. [Dirac Notation](#dirac-notation)
-4. [Quantum Physics](#quatum-physics)
+4. [Quantum Physics](#quantum-physics)
 5. [Quantum Mechanics Basics](#quantum-mechanics-basics)
 6. [Quantum Computing](#quantum-computing)
 7. [Useful Resources](#useful-resources)
@@ -18,6 +18,7 @@ This repo is going to contain different resources that helped me learn quantum t
 ---
 
 ## 1. Dirac Notation
+<a name="dirac-notation"></a>
 
 📦 **Dirac Notation — In Juice Box Terms**
 
@@ -27,7 +28,7 @@ Dirac notation uses “kets” and “bras” to describe quantum states:
 - **Bra (⟨ψ|)** → “Seems like” — tasting it to check, e.g. “Does this act like apple juice?”
 - **Bra–ket (⟨ψ|ψ⟩)** → “I’m this sure” — measuring how likely it actually is apple juice.
 
-It’s a way to represent and compare quantum states using inner products.
+It’s a way to represent and compare quantum states using inner products.  
 Succinctly: **Ket = identity, Bra = evaluation, Bra–ket = confidence.**
 
 **Useful Links:**
@@ -43,14 +44,15 @@ Succinctly: **Ket = identity, Bra = evaluation, Bra–ket = confidence.**
 ---
 
 ## 2. Linear Algebra
+<a name="linear-algebra"></a>
 
-# 🧠 Introduction to Linear Algebra (Quantum Computing Focus)
+### 🧠 Introduction to Linear Algebra (Quantum Computing Focus)
 
 Linear algebra is the mathematical foundation of quantum computing. It deals with vectors, matrices, and transformations — all of which are essential for understanding quantum states, gates, and measurements.
 
 ---
 
-## 📚 Why Learn Linear Algebra?
+### 📚 Why Learn Linear Algebra?
 
 Quantum computing uses:
 - **Vectors** → to represent quantum states (`|ψ⟩`)
@@ -61,7 +63,7 @@ Quantum computing uses:
 
 ---
 
-## 🧩 Key Concepts
+### 🧩 Key Concepts
 
 | Concept                  | Description                                         | Quantum Relevance                        |
 |--------------------------|-----------------------------------------------------|------------------------------------------|
@@ -75,89 +77,100 @@ Quantum computing uses:
 
 ---
 
-- **Scale:** make all inputs bigger/smaller
-- **Skew:** make certain inputs bigger/smaller
-- **Flip:** make inputs negative
-- **Rotate:** make new coordinates based on old ones (East becomes North, North becomes West, etc.)
-- These are geometric interpretations of multiplication, and how to warp a vector space. Just remember that vectors are examples of data to modify.
+### 🧠 Geometric Interpretations
+
+- **Scale**: make all inputs bigger/smaller
+- **Skew**: make certain inputs bigger/smaller
+- **Flip**: make inputs negative
+- **Rotate**: change coordinates based on old ones (East becomes North, etc.)
+
+These are ways to warp a vector space. Just remember: vectors are examples of data to modify.
 
 ---
 
-## 🎓 Recommended Resources
+### 🎓 Recommended Resources
 
-### 📘 Courses
-- [Better Explained - Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+#### 📘 Courses
+- [Better Explained – Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 - [Khan Academy – Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [MIT OpenCourseWare – Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Alison – Free Online Course](https://alison.com/course/introduction-to-linear-algebra)
 
-### 📗 Recommended Linear Algebra Books for Beginners
+#### 📗 Books
 
-Here are some beginner-friendly books to help you build a strong foundation in linear algebra — especially useful if you're aiming to understand quantum computing.
+##### 1. [Linear Algebra for Beginners: The Ultimate Step-by-Step Guide](https://www.amazon.com/Linear-Algebra-Beginners-Ultimate-Guide/dp/B0DW4FCDBT)
+- Clear explanations, practice problems, and full-length tests
 
-### 1. [Linear Algebra for Beginners: The Ultimate Step-by-Step Guide](https://www.amazon.com/Linear-Algebra-Beginners-Ultimate-Guide/dp/B0DW4FCDBT)
-- Clear explanations of vectors, matrices, transformations, and eigenvalues
-- Includes practice problems and full-length tests
-- Great for self-study and aligned with modern course guidelines
+##### 2. [The Linear Algebra a Beginning Graduate Student Ought to Know](https://www.walmart.com/ip/The-Linear-Algebra-a-Beginning-Graduate-Student-Ought-to-Know-Paperback-9789400726352/19508112)
+- Deeper dive into theory and computation
 
-### 2. [The Linear Algebra a Beginning Graduate Student Ought to Know](https://www.walmart.com/ip/The-Linear-Algebra-a-Beginning-Graduate-Student-Ought-to-Know-Paperback-9789400726352/19508112)
-- A deeper dive into theory and computation
-- Ideal for advanced beginners or those preparing for graduate-level work
+##### 3. [Linear Algebra: For Beginners (Solved Problem-Based)](https://www.amazon.com/dp/B096TRVB4F)
+- Problem-focused approach with examples
 
-### 3. [Linear Algebra: For Beginners (Solved Problem-Based)](https://www.amazon.com/dp/B096TRVB4F)
-- Focuses on examples and problem-solving
-- Covers matrix operations, vector spaces, and eigenvalues
-
-### 4. [Linear Algebra Essentials: A Crash Course for Beginners](https://www.amazon.com/dp/B0CCLN7MQ6)
+##### 4. [Linear Algebra Essentials: A Crash Course for Beginners](https://www.amazon.com/dp/B0CCLN7MQ6)
 - Concise and practical introduction
-- Good for quick review or foundational understanding
 
-### 5. [A First Course in Linear Algebra – Open Textbook](https://open.umn.edu/opentextbooks/textbooks/5)
-- Free and comprehensive
-- Covers systems of equations, matrices, vector spaces, and transformations
-- Ideal for students and self-learners
-
----
+##### 5. [A First Course in Linear Algebra – Open Textbook](https://open.umn.edu/opentextbooks/textbooks/5)
+- Free and comprehensive resource
 
 > 📘 Tip: Start with a book that matches your comfort level. If you're new to math, go for #1 or #4. If you're ready to dive deeper, #2 or #5 are excellent choices.
 
-
-### 📺 Videos
+#### 📺 Videos
 - [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ---
 
-## 🧠 Pro Tip
+### 🧠 Pro Tip
 
 As you learn linear algebra, try to connect each concept to quantum computing:
 - **Unitary matrices** → quantum gates
 - **Eigenvectors** → measurement outcomes
 - **Tensor products** → entanglement
 
----
-
 > “Linear algebra is the language of quantum mechanics. Master it, and you’ll unlock the quantum world.”
 
-
+---
 
 ## 3. Quantum Physics
+<a name="quantum-physics"></a>
 
--[Quantum Physics Lectures](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/video-lectures/part-1/)
+Quantum physics is the broad field that studies the behavior of matter and energy at the smallest scales. It includes quantum mechanics, quantum field theory, and quantum technologies.
 
+### 📺 Lectures
+- [MIT Quantum Physics I – Video Lectures](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/video-lectures/part-1/)
+
+---
 
 ## 4. Quantum Mechanics Basics
+<a name="quantum-mechanics-basics"></a>
+
+Quantum mechanics is the mathematical framework that describes quantum phenomena. It includes principles like:
+
+- **Superposition**: particles can exist in multiple states at once
+- **Entanglement**: particles can be correlated across space
+- **Measurement**: observing a quantum system affects its state
+- **Uncertainty Principle**: limits how precisely we can know certain properties
 
 _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
 ## 5. Quantum Computing
+<a name="quantum-computing"></a>
+
+Quantum computing uses quantum mechanics to perform computations. It relies on:
+
+- **Qubits**: quantum bits that can be in superpositions
+- **Quantum gates**: operations that manipulate qubits
+- **Quantum circuits**: sequences of gates to perform algorithms
+- **Quantum algorithms**: like Grover’s and Shor’s
 
 _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
 ## 6. Useful Resources
+<a name="useful-resources"></a>
 
 - [Quantum Country](https://quantum.country/)
 - [Qiskit Textbook](https://qiskit.org/textbook/)
@@ -166,9 +179,8 @@ _Add your explanations, links, and documentation as you learn new concepts._
 ---
 
 ## 7. How to Contribute
+<a name="how-to-contribute"></a>
 
 - Add new sections with explanations, links, and documentation as you learn.
 - Update the Table of Contents.
 - Format new entries like the examples above.
-
----
