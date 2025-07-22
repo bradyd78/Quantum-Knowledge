@@ -35,6 +35,7 @@ Succinctly: **Ket = identity, Bra = evaluation, Bra–ket = confidence.**
 - [Quantum Country: Dirac Notation](https://quantum.country/qcvc)
 
 **Documentation:**
+- [Understanding Quantum Information and Computation](https://youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&si=4IolgqQDrtsA9oAf)
 - [MIT OpenCourseWare Lecture Notes](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/lecture-notes/)
 - [Qiskit Textbook: Dirac Notation](https://qiskit.org/textbook/ch-states/dirac-notation.html)
 
