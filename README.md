@@ -75,11 +75,11 @@ Quantum computing uses:
 
 ---
 
-Scale: make all inputs bigger/smaller
-Skew: make certain inputs bigger/smaller
-Flip: make inputs negative
-Rotate: make new coordinates based on old ones (East becomes North, North becomes West, etc.)
-These are geometric interpretations of multiplication, and how to warp a vector space. Just remember that vectors are examples of data to modify.
+- **Scale:** make all inputs bigger/smaller
+- **Skew:** make certain inputs bigger/smaller
+- **Flip:** make inputs negative
+- **Rotate:** make new coordinates based on old ones (East becomes North, North becomes West, etc.)
+- These are geometric interpretations of multiplication, and how to warp a vector space. Just remember that vectors are examples of data to modify.
 
 ---
 
