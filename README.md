@@ -91,9 +91,36 @@ Quantum computing uses:
 - [MIT OpenCourseWare – Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Alison – Free Online Course](https://alison.com/course/introduction-to-linear-algebra)
 
-### 📗 Books
-- *Introduction to Linear Algebra* by Gilbert Strang
-- *Linear Algebra Done Right* by Sheldon Axler
+### 📗 Recommended Linear Algebra Books for Beginners
+
+Here are some beginner-friendly books to help you build a strong foundation in linear algebra — especially useful if you're aiming to understand quantum computing.
+
+### 1. [Linear Algebra for Beginners: The Ultimate Step-by-Step Guide](https://www.amazon.com/Linear-Algebra-Beginners-Ultimate-Guide/dp/B0DW4FCDBT)
+- Clear explanations of vectors, matrices, transformations, and eigenvalues
+- Includes practice problems and full-length tests
+- Great for self-study and aligned with modern course guidelines
+
+### 2. [The Linear Algebra a Beginning Graduate Student Ought to Know](https://www.walmart.com/ip/The-Linear-Algebra-a-Beginning-Graduate-Student-Ought-to-Know-Paperback-9789400726352/19508112)
+- A deeper dive into theory and computation
+- Ideal for advanced beginners or those preparing for graduate-level work
+
+### 3. [Linear Algebra: For Beginners (Solved Problem-Based)](https://www.amazon.com/dp/B096TRVB4F)
+- Focuses on examples and problem-solving
+- Covers matrix operations, vector spaces, and eigenvalues
+
+### 4. [Linear Algebra Essentials: A Crash Course for Beginners](https://www.amazon.com/dp/B0CCLN7MQ6)
+- Concise and practical introduction
+- Good for quick review or foundational understanding
+
+### 5. [A First Course in Linear Algebra – Open Textbook](https://open.umn.edu/opentextbooks/textbooks/5)
+- Free and comprehensive
+- Covers systems of equations, matrices, vector spaces, and transformations
+- Ideal for students and self-learners
+
+---
+
+> 📘 Tip: Start with a book that matches your comfort level. If you're new to math, go for #1 or #4. If you're ready to dive deeper, #2 or #5 are excellent choices.
+
 
 ### 📺 Videos
 - [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
