@@ -8,10 +8,11 @@ This repo is going to contain different resources that helped me learn quantum t
 
 1.📚 [Quantum Vocab Cheat Sheet](cheatsheet/vocab.md)
 2. [Dirac Notation](#dirac-notation)
-3. [Quantum Mechanics Basics](#quantum-mechanics-basics)
-4. [Quantum Computing](#quantum-computing)
-5. [Useful Resources](#useful-resources)
-6. [How to Contribute](#how-to-contribute)
+3. [Quantum Physics](#quatum-physics)
+4. [Quantum Mechanics Basics](#quantum-mechanics-basics)
+5. [Quantum Computing](#quantum-computing)
+6. [Useful Resources](#useful-resources)
+7. [How to Contribute](#how-to-contribute)
 
 ---
 
@@ -39,19 +40,24 @@ Succinctly: **Ket = identity, Bra = evaluation, Bra–ket = confidence.**
 
 ---
 
-## 2. Quantum Mechanics Basics
+## 2. Quantum Physics
+
+-[Quantum Physics Lectures](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/video-lectures/part-1/)
+
+
+## 3. Quantum Mechanics Basics
 
 _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
-## 3. Quantum Computing
+## 4. Quantum Computing
 
 _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
-## 4. Useful Resources
+## 5. Useful Resources
 
 - [Quantum Country](https://quantum.country/)
 - [Qiskit Textbook](https://qiskit.org/textbook/)
@@ -59,7 +65,7 @@ _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
-## 5. How to Contribute
+## 6. How to Contribute
 
 - Add new sections with explanations, links, and documentation as you learn.
 - Update the Table of Contents.
