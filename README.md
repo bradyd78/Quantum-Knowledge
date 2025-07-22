@@ -78,6 +78,7 @@ Quantum computing uses:
 ## 🎓 Recommended Resources
 
 ### 📘 Courses
+- [Better Explained - Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 - [Khan Academy – Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [MIT OpenCourseWare – Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Alison – Free Online Course](https://alison.com/course/introduction-to-linear-algebra)
