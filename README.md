@@ -179,7 +179,8 @@ _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
-### 7. 🧠 Quantum Computing News Sources
+## 7. 🧠 Quantum Computing News Sources
+<a name="quatum-news"></a>
 
 Stay up to date with the latest breakthroughs, industry developments, and academic research in quantum computing with these trusted sources:
 
