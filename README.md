@@ -13,7 +13,8 @@ This repo contains different resources that helped me learn quantum topics. I al
 5. [Quantum Mechanics Basics](#quantum-mechanics-basics)
 6. [Quantum Computing](#quantum-computing)
 7. [Useful Resources](#useful-resources)
-8. [How to Contribute](#how-to-contribute)
+8. [Quantum News](#quantum-news)
+9. [How to Contribute](#how-to-contribute)
 
 ---
 
@@ -178,7 +179,22 @@ _Add your explanations, links, and documentation as you learn new concepts._
 
 ---
 
-## 7. How to Contribute
+### 7. 🧠 Quantum Computing News Sources
+
+Stay up to date with the latest breakthroughs, industry developments, and academic research in quantum computing with these trusted sources:
+
+## Top News & Research Platforms
+
+| Source | Description | Link |
+|--------|-------------|------|
+| **ScienceDaily – Quantum Computing** | Covers cutting-edge research and breakthroughs in quantum physics and computing from universities and labs worldwide. | [ScienceDaily Quantum News](https://www.sciencedaily.com/news/matter_energy/quantum_computing/) |
+| **MIT News – Quantum Computing** | Features research, innovations, and academic developments from MIT’s quantum labs. | [MIT Quantum News](https://news.mit.edu/topic/quantum-computing) |
+| **The Quantum Insider** | A dedicated platform for quantum business, research, startups, and global ecosystem updates. | [The Quantum Insider](https://thequantuminsider.com/) |
+| **Quantum Computing Report** | Offers in-depth coverage of industry news, funding rounds, partnerships, and technical milestones. | [Quantum Computing Report](https://quantumcomputingreport.com/news/) |
+| **Scientific American – Quantum Computing** | Provides accessible yet rigorous articles on quantum theory, technology, and societal implications. | [Scientific American Quantum](https://www.scientificamerican.com/quantum-computing/) |
+
+
+## 8. How to Contribute
 <a name="how-to-contribute"></a>
 
 - Add new sections with explanations, links, and documentation as you learn.
