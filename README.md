@@ -10,13 +10,14 @@ Feel free to contribute, edit, or expand any section!
 
 1. [Quantum Vocab Cheat Sheet](cheatsheet/vocab.md)
 2. [Linear Algebra](#2-linear-algebra)
-3. [Dirac Notation](#3-dirac-notation)
-4. [Quantum Physics](#4-quantum-physics)
-5. [Quantum Mechanics Basics](#5-quantum-mechanics-basics)
-6. [Quantum Computing](#6-quantum-computing)
-7. [Useful Resources](#7-useful-resources)
-8. [Quantum News Sources](#8-quantum-news-sources)
-9. [How to Contribute](#9-how-to-contribute)
+3. [Schrodinger's Equation](#3-schrodinger's-equation)
+4. [Dirac Notation](#3-dirac-notation)
+5. [Quantum Physics](#4-quantum-physics)
+6. [Quantum Mechanics Basics](#5-quantum-mechanics-basics)
+7. [Quantum Computing](#6-quantum-computing)
+8. [Useful Resources](#7-useful-resources)
+9. [Quantum News Sources](#8-quantum-news-sources)
+10. [How to Contribute](#9-how-to-contribute)
 
 ---
 
@@ -45,8 +46,21 @@ Linear algebra is the mathematical backbone of quantum computing. It helps descr
 - [A First Course in Linear Algebra – Free Textbook](https://open.umn.edu/opentextbooks/textbooks/5)
 
 ---
+## 3. 🔄 Schrödinger Equation
 
-## 3. 🧃 Dirac Notation
+The **Schrödinger equation** describes how quantum states evolve over time.
+
+### 🧮 Time-dependent form:
+$$ i\hbar \frac{\partial}{\partial t} \Psi(x, t) = \hat{H} \Psi(x, t) $$
+
+- **Ψ(x, t)**: wavefunction
+- **Ĥ**: Hamiltonian operator (total energy)
+- **ħ**: reduced Planck’s constant
+
+This equation is the quantum analog of Newton’s laws — it governs the dynamics of particles.
+
+
+## 4. 🧃 Dirac Notation
 <a name="3-dirac-notation"></a>
 
 Dirac notation uses “kets” and “bras” to describe quantum states:
@@ -64,7 +78,7 @@ Dirac notation uses “kets” and “bras” to describe quantum states:
 
 ---
 
-## 4. 🌌 Quantum Physics
+## 5. 🌌 Quantum Physics
 <a name="4-quantum-physics"></a>
 
 Quantum physics explores the behavior of matter and energy at the smallest scales.
@@ -75,21 +89,36 @@ Quantum physics explores the behavior of matter and energy at the smallest scale
 
 ---
 
-## 5. 🧪 Quantum Mechanics Basics
+## 6. 🧪 Quantum Mechanics Basics
 <a name="5-quantum-mechanics-basics"></a>
 
-Core principles of quantum mechanics:
+Quantum mechanics describes the rules that govern particles at atomic and subatomic scales.
 
-- **Superposition**: particles exist in multiple states simultaneously
-- **Entanglement**: particles share correlations across space
-- **Measurement**: observing affects the system
-- **Uncertainty Principle**: limits precision of simultaneous properties
+### 🧠 Core Principles
 
-_Add your own explanations and links as you learn._
+| Principle | Description |
+|----------|-------------|
+| **Superposition** | A particle can exist in multiple states at once until measured |
+| **Entanglement** | Two particles can be correlated in such a way that measuring one affects the other instantly |
+| **Measurement** | Observing a quantum system collapses it into a definite state |
+| **Uncertainty Principle** | You can't precisely know both position and momentum: $$ \Delta x \cdot \Delta p \geq \frac{\hbar}{2} $$ |
+| **Wavefunction** | A mathematical function that describes the quantum state of a system |
+| **Quantization** | Energy levels are discrete, not continuous |
 
----
+### 🔬 Famous Experiments
 
-## 6. 💻 Quantum Computing
+- **Double-slit experiment** – Demonstrates wave-particle duality
+- **Photoelectric effect** – Shows light behaves as particles (photons)
+- **Stern-Gerlach experiment** – Reveals quantum spin and measurement
+- **Bell’s inequality tests** – Confirms quantum entanglement
+
+### 📘 Suggested Reading
+
+- [Quantum Mechanics and Path Integrals – Feynman & Hibbs](https://www.goodreads.com/book/show/181436.Quantum_Mechanics_and_Path_Integrals)
+- [Quantum Physics for Beginners – Alastair Rae](https://www.goodreads.com/book/show/158389.Quantum_Physics)
+
+
+## 7. 💻 Quantum Computing
 <a name="6-quantum-computing"></a>
 
 Quantum computing applies quantum mechanics to computation.
@@ -103,7 +132,7 @@ Quantum computing applies quantum mechanics to computation.
 
 ---
 
-## 7. 🔗 Useful Resources
+## 8. 🔗 Useful Resources
 <a name="7-useful-resources"></a>
 
 - [Quantum Country](https://quantum.country/)
@@ -112,7 +141,7 @@ Quantum computing applies quantum mechanics to computation.
 
 ---
 
-## 8. 📰 Quantum News Sources
+## 9. 📰 Quantum News Sources
 <a name="8-quantum-news-sources"></a>
 
 Stay informed with these trusted quantum computing news platforms:
@@ -134,7 +163,7 @@ Stay informed with these trusted quantum computing news platforms:
 
 ---
 
-## 9. 🤝 How to Contribute
+## 10. 🤝 How to Contribute
 <a name="9-how-to-contribute"></a>
 
 Want to help expand this repo?
